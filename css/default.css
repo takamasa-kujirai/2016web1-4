@@ -1,7 +1,7 @@
 @charset"UTF-8";
 body{
   background-color:#fbf9cc;
-   background-image:url(3DCG.jpg);
+   background-image:url(../img/3DCG.jpg);
   background-repeat:repeat-x;
 }
 h1 span{
