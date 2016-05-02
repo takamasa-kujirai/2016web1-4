@@ -1,1 +1,38 @@
+@charset"UTF-8";
+body{
+  background-color:#fbf9cc;
+}
+h1 span{
+  font-size:1.75em;
+  color:#3399cc;
+  text-align:center;
+}
+h2 a{
+  font-size:1.25em;
+  color:#3399cc;
+  border:#94c8b1 1px dotted;
+  border-left:#d0e35b 10px solid;
+  margin-bottom:0;
+  padding:5px20px;
+}
+p{
+  font-size:0.8em;
+  background-color:#3399cc;
+  color:#333333;
+  line-height:1.75em;
+}
+li{
+  font-size:0.8em;
+  color:#333333;
+}
+address{
+  font-size:0.75em;
+  font-style:italic;
+}
 
+a{
+  color:#df4839;
+}
+a:hover{
+  color:#ff705b;
+}
