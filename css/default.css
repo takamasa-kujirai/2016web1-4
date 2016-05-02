@@ -50,7 +50,10 @@ p.greeting{
 }
 .cat{
   font-size:70%;
-  
+  padding:20px 0px;
+  background-image:url(../img/3DCG.jpg);
+  background-repeat:no-repeat;
+  background-position:right center;
 }
 .male{
   color:#2793a7;
