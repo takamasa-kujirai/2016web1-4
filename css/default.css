@@ -58,7 +58,8 @@ p.greeting{
   font-size:70%;
   padding:20px 0px;
   padding-right:30px;
-  background-image:url(../img/3DCG.jpg);
+  /*background-image:url(../img/3DCG.jpg);
+  */
   background-repeat:no-repeat;
   background-position:right center;
 }
