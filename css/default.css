@@ -17,6 +17,10 @@ h2 a{
   margin-bottom:0;
   padding:5px20px;
 }
+h1,h2{
+  color:#ff0000;
+}
+
 p{
   font-size:0.8em;
   background-color:#3399cc;
@@ -64,4 +68,5 @@ p.greeting{
 .female{
   color:#df972f;
 }
+
 
