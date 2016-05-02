@@ -36,3 +36,26 @@ a{
 a:hover{
   color:#ff705b;
 }
+#lead{
+  border-top:#6fbb9a 1px dotted;
+  text-align:center;
+}
+.greeting{
+  border-top:#6fbb9a 1px dotted;
+  text-align:center;
+}
+p.greeting{
+  border-top:#6fbb9a 1px dotted;
+  text-align:center;
+}
+.cat{
+  font-size:70%;
+  
+}
+.male{
+  color:#2793a7;
+}
+.female{
+  color:#df972f;
+}
+
